@@ -1,1 +1,1 @@
-# case-study
+# Google-Lens-Vs-Mobilenet
